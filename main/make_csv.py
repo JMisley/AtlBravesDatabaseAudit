@@ -1,6 +1,11 @@
 import requests
 import csv
 import json
+import sys
+
+# specify where to find requests to avoid command-line issues
+sys.path.append('../venv/Lib/site-packages/requests')
+
 
 # get data from endpoint
 response = requests.get(
