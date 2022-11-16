@@ -26,7 +26,7 @@ pip install -r reqirements.txt
 
 ## Run 
 
-Opena terminal in the root directory of the project and execute:
+Open a terminal in the root directory of the project and execute:
 
 ```bash
 python main/audit_database.py
