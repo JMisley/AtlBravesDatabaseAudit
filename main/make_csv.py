@@ -1,11 +1,11 @@
-import requests
 import csv
 import json
 import sys
 
-# specify where to find requests to avoid command-line issues
-sys.path.append('../venv/Lib/site-packages/requests')
+# specify a module path to avoid command-line issues with external libraries
+sys.path.insert(0, 'C:\\Users\\johnn\\PycharmProjects\\AtlBraves\\venv\\lib\\site-packages')
 
+import requests
 
 # get data from endpoint
 response = requests.get(

@@ -1,14 +1,9 @@
 import sqlite3
-import sys
-import pandas
 
 from make_csv import write_api_csv
 from queries import pitcherDataQuery
 
-# specify where to find pandas to avoid command-line issues
-sys.path.append('../venv/Lib/site-packages/pandas')
-
-print(sys.path)
+import pandas
 
 # Player IDs for Shane Carle, Jonny Venters, and Luke Jackson
 playerIDs = [641438, 458924, 592426]
