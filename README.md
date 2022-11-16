@@ -27,7 +27,7 @@
       project)
 
 - Run Project From Command Line 
-  - Navigate to "DB-Audit" so it is your current working directory -
+  - Navigate to "DB-Audit" so it is your current working directory
   - Execute ```python main/audit_database.py``` to start the script
 
 ## Author
