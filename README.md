@@ -17,18 +17,18 @@
 - Installation
     - GitHub Clone
         - Open a terminal, navigate to your desired location, and
-          execute 
-          ```git clone https://github.com/JMisley/DB-Audit.git```
+          execute ```git clone https://github.com/JMisley/DB-Audit.git```
     - Download Zip
-        - Go to https://github.com/JMisley/DB-Audit.git, click the green "Code" button, and click "Download Zip"
+        - Or go to https://github.com/JMisley/DB-Audit.git, click the green "Code" button, and click "Download Zip"
 
 - Install Libraries
     - Navigate to "DB-Audit" so it is your current working directory
     - Open a terminal and execute ```pip install -r reqirements.txt``` (only required for the first time running the
       project)
 
-- Run Project From Command Line - Navigate to "DB-Audit" so it is your current working directory -
-  Execute ```python main/audit_database.py``` to start the script
+- Run Project From Command Line 
+  - Navigate to "DB-Audit" so it is your current working directory -
+  - Execute ```python main/audit_database.py``` to start the script
 
 ## Author
 
