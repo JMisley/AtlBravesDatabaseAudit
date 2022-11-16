@@ -17,7 +17,8 @@
 - Installation
     - GitHub Clone
         - Open a terminal, navigate to your desired location, and
-          execute ```git clone https://github.com/JMisley/DB-Audit.git```
+          execute 
+          ```git clone https://github.com/JMisley/DB-Audit.git```
     - Download Zip
         - Go to https://github.com/JMisley/DB-Audit.git, click the green "Code" button, and click "Download Zip"
 
