@@ -8,7 +8,7 @@ This project pulls 2018-Atlanta-Braves-pitching data from the StatsAPI provided 
 
 ### Requirements
 
-Python (version 3.9.6) and required libraries (see [install libraries](#install-libraries) for more details).
+Python (3.9.6) and required libraries (see [install libraries](#install-libraries) for more details).
 
 ### Setup
 
