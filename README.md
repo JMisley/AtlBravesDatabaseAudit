@@ -21,7 +21,7 @@ Clone (`git clone https://github.com/JMisley/DB-Audit.git`) or [download a zip f
 Open a terminal in the root directory of the project and execute: 
 
 ```bash
-pip install -r reqirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run 
